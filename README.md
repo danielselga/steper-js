@@ -1,3 +1,3 @@
 # steper-js
 
-NPM Install
+NPM I
